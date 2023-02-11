@@ -105,6 +105,15 @@
       "decimals": 18,
       "chainId": 7700,
       "logoURI": "https://raw.githubusercontent.com/CryptoP00R/CantoMoon/main/Images/CantoMoon-NonTransparent.png"
+    },
+
+    {
+      "name": "CATO",
+      "address": "0x6e40284B7f6147BAb10630A6866C7e29846B8277",
+      "symbol": "CATO",
+      "decimals": 18,
+      "chainId": 7700,
+      "logoURI": "https://raw.githubusercontent.com/CatoCanto/CATO/main/cato.png"
     }
   ]
 }
