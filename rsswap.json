@@ -3,9 +3,9 @@
   "timestamp": "2022-05-01T00:00:00.000Z",
   "logoURI": "https://cdn.discordapp.com/attachments/995443293280292924/1296468574776332308/RealSwapLogo.png?ex=671265f3&is=67111473&hm=2f5179c07f3058c824085f86cd0c595b88969a246fa32a357506f9d76bb324c4&",
   "version": {
-    "major": 33,
-    "minor": 19,
-    "patch": 16
+    "major": 34,
+    "minor": 29,
+    "patch": 17
   },
   "tokens": [
     {
@@ -14,7 +14,7 @@
       "symbol": "REAL",
       "decimals": 18,
       "chainId": 480,
-      "logoURI": "https://cdn.discordapp.com/attachments/995443293280292924/1296468574776332308/RealSwapLogo.png?ex=671265f3&is=67111473&hm=2f5179c07f3058c824085f86cd0c595b88969a246fa32a357506f9d76bb324c4&"
+      "logoURI": "https://i.ibb.co/vDqsJCt/Real-Swap-Logo.png"
     },
     {
       "name": "wETH",
@@ -22,7 +22,7 @@
       "symbol": "wETH",
       "decimals": 18,
       "chainId": 480,
-      "logoURI": "https://dynamic-assets.coinbase.com/dbb4b4983bde81309ddab83eb598358eb44375b930b94687ebe38bc22e52c3b2125258ffb8477a5ef22e33d6bd72e32a506c391caa13af64c00e46613c3e5806/asset_icons/4113b082d21cc5fab17fc8f2d19fb996165bcce635e6900f7fc2d57c4ef33ae9.png"
+      "logoURI": "https://cdn.worldvectorlogo.com/logos/ethereum-eth.svg"
     }
   ]
 }
