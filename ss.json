@@ -1,0 +1,28 @@
+{
+  "name": "SonicSwap",
+  "timestamp": "2022-05-01T00:00:00.000Z",
+  "logoURI": "https://res-console.cloudinary.com/dc0agngpp/thumbnails/v1/image/upload/v1733492382/c29uaWNwZnBfa2hodmIw/preview",
+  "version": {
+    "major": 35,
+    "minor": 39,
+    "patch": 18
+  },
+  "tokens": [
+    {
+      "name": "SonicSwap",
+      "address": "0xBCdB885977c8A6BbFe1558387677Cf0Efd216c36",
+      "symbol": "SonicSwap",
+      "decimals": 18,
+      "chainId": 146,
+      "logoURI": "https://res-console.cloudinary.com/dc0agngpp/thumbnails/v1/image/upload/v1733492382/c29uaWNwZnBfa2hodmIw/preview"
+    },
+    {
+      "name": "wETH",
+      "address": "0x4200000000000000000000000000000000000006",
+      "symbol": "wETH",
+      "decimals": 18,
+      "chainId": 146,
+      "logoURI": "https://cdn.worldvectorlogo.com/logos/ethereum-eth.svg"
+    }
+  ]
+}
