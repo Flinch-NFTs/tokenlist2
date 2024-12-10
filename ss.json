@@ -3,9 +3,9 @@
   "timestamp": "2022-05-01T00:00:00.000Z",
   "logoURI": "https://www.sonicswap.net/images/logo.png",
   "version": {
-    "major": 39,
-    "minor": 44,
-    "patch": 22
+    "major": 40,
+    "minor": 45,
+    "patch": 23
   },
   "tokens": [
     {
