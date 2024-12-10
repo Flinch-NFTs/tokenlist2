@@ -3,14 +3,14 @@
   "timestamp": "2022-05-01T00:00:00.000Z",
   "logoURI": "https://www.sonicswap.net/images/logo.png",
   "version": {
-    "major": 40,
-    "minor": 45,
-    "patch": 23
+    "major": 41,
+    "minor": 46,
+    "patch": 24
   },
   "tokens": [
     {
       "name": "SonicSwap",
-      "address": "0xdB78663Ad25D2C684087adF5993530019141E331",
+      "address": "0x752b8F4eca5865Cf7f46b764f30764eC21f24A88",
       "symbol": "SonicSwap",
       "decimals": 18,
       "chainId": 146,
