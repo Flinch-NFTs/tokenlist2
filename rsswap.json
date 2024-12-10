@@ -3,9 +3,9 @@
   "timestamp": "2022-05-01T00:00:00.000Z",
   "logoURI": "https://i.ibb.co/vDqsJCt/Real-Swap-Logo.png",
   "version": {
-    "major": 35,
-    "minor": 39,
-    "patch": 18
+    "major": 36,
+    "minor": 40,
+    "patch": 19
   },
   "tokens": [
     {
@@ -17,12 +17,12 @@
       "logoURI": "https://i.ibb.co/vDqsJCt/Real-Swap-Logo.png"
     },
     {
-      "name": "wETH",
-      "address": "0x4200000000000000000000000000000000000006",
-      "symbol": "wETH",
+      "name": "wSonic",
+      "address": "0xdB78663Ad25D2C684087adF5993530019141E339",
+      "symbol": "wS",
       "decimals": 18,
       "chainId": 480,
-      "logoURI": "https://cdn.worldvectorlogo.com/logos/ethereum-eth.svg"
+      "logoURI": "https://i.ibb.co/vDqsJCt/Real-Swap-Logo.png"
     }
   ]
 }
