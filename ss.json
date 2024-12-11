@@ -3,9 +3,9 @@
   "timestamp": "2022-05-01T00:00:00.000Z",
   "logoURI": "https://www.sonicswap.net/images/logo.png",
   "version": {
-    "major": 42,
-    "minor": 47,
-    "patch": 25
+    "major": 43,
+    "minor": 48,
+    "patch": 26
   },
   "tokens": [
     {
@@ -18,7 +18,7 @@
     },
     {
       "name": "wSonic",
-      "address": "0xD78a24bF4BA80d43a404509Abbc0b0B4f93df02A",
+      "address": "0x039e2fB66102314Ce7b64Ce5Ce3E5183bc94aD38",
       "symbol": "wS",
       "decimals": 18,
       "chainId": 146,
