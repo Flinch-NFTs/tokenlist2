@@ -3,9 +3,9 @@
   "timestamp": "2022-05-01T00:00:00.000Z",
   "logoURI": "https://cdn.discordapp.com/attachments/934022616321253397/1318626951539458118/inkswaplogo.png?ex=6763028c&is=6761b10c&hm=1f148e2ed6d7a48ec2c7d417d6b7157932cdccee5f038c8b1ab5f4b191f2365e&",
   "version": {
-    "major": 43,
-    "minor": 48,
-    "patch": 26
+    "major": 44,
+    "minor": 49,
+    "patch": 27
   },
   "tokens": [
     {
@@ -14,7 +14,7 @@
       "symbol": "wETH",
       "decimals": 18,
       "chainId": 57073,
-      "logoURI": "https://cryptologos.cc/logos/ethereum-eth-logo.png"
+      "logoURI": "https://zengo.com/wp-content/uploads/wETH_desktop.svg"
     }
   ]
 }
