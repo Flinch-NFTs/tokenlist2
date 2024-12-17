@@ -1,11 +1,11 @@
 {
   "name": "InkSwap",
   "timestamp": "2022-05-01T00:00:00.000Z",
-  "logoURI": "https://cdn.discordapp.com/attachments/934022616321253397/1318626951539458118/inkswaplogo.png?ex=6763028c&is=6761b10c&hm=1f148e2ed6d7a48ec2c7d417d6b7157932cdccee5f038c8b1ab5f4b191f2365e&",
+  "logoURI": "https://cdn.discordapp.com/attachments/934022616321253397/1318626878369562785/inkswappfp.png?ex=6763027a&is=6761b0fa&hm=c21afab5ff62f4d3d5186cb552aed105ea3f21afbedf31bc54b4321a03dd4bd1&",
   "version": {
-    "major": 45,
-    "minor": 50,
-    "patch": 28
+    "major": 46,
+    "minor": 51,
+    "patch": 29
   },
   "tokens": [
     {
@@ -14,7 +14,7 @@
       "symbol": "ISWAP",
       "decimals": 18,
       "chainId": 57073,
-      "logoURI": "https://cdn.discordapp.com/attachments/934022616321253397/1318626951539458118/inkswaplogo.png?ex=6763028c&is=6761b10c&hm=1f148e2ed6d7a48ec2c7d417d6b7157932cdccee5f038c8b1ab5f4b191f2365e&"
+      "logoURI": "https://cdn.discordapp.com/attachments/934022616321253397/1318626878369562785/inkswappfp.png?ex=6763027a&is=6761b0fa&hm=c21afab5ff62f4d3d5186cb552aed105ea3f21afbedf31bc54b4321a03dd4bd1&"
     },
     {
       "name": "wETH",
