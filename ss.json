@@ -3,9 +3,9 @@
   "timestamp": "2022-05-01T00:00:00.000Z",
   "logoURI": "https://www.sonicswap.net/images/logo.png",
   "version": {
-    "major": 44,
-    "minor": 49,
-    "patch": 27
+    "major": 45,
+    "minor": 50,
+    "patch": 28
   },
   "tokens": [
     {
@@ -23,6 +23,15 @@
       "decimals": 18,
       "chainId": 146,
       "logoURI": "https://dex.sonicswap.net/static/media/evmos-logo.b0e9854d.png"
+    },
+
+    {
+      "name": "SONIK",
+      "address": "0x682E6901558581585af2956B3256566C6a22A651",
+      "symbol": "SOINK",
+      "decimals": 18,
+      "chainId": 146,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0x682e6901558581585af2956b3256566c6a22a651.png?size=lg&key=21dfc5"
     }
   ]
 }
