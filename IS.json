@@ -1,11 +1,11 @@
 {
   "name": "InkSwap",
   "timestamp": "2022-05-01T00:00:00.000Z",
-  "logoURI": "https://dd.dexscreener.com/ds-data/tokens/ink/0x6814b9c5dae3dd05a8dbe9bf2b4e4fbb9cef5302.png?size=lg&key=6e3878",
+  "logoURI": "https://i.ibb.co/Q8D5r0k/inkswaplogo.png",
   "version": {
-    "major": 47,
-    "minor": 52,
-    "patch": 30
+    "major": 48,
+    "minor": 53,
+    "patch": 31
   },
   "tokens": [
     {
