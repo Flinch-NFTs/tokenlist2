@@ -3,9 +3,9 @@
   "timestamp": "2022-05-01T00:00:00.000Z",
   "logoURI": "https://i.ibb.co/Q8D5r0k/inkswaplogo.png",
   "version": {
-    "major": 48,
-    "minor": 53,
-    "patch": 31
+    "major": 49,
+    "minor": 54,
+    "patch": 32
   },
   "tokens": [
     {
@@ -23,6 +23,15 @@
       "decimals": 18,
       "chainId": 57073,
       "logoURI": "https://zengo.com/wp-content/uploads/wETH_desktop.svg"
+    },
+
+    {
+      "name": "SuperInk",
+      "address": "0xD43e76fF8f95035E220070BdDFD3C0C2bdD3051B",
+      "symbol": "SINK",
+      "decimals": 18,
+      "chainId": 57073,
+      "logoURI": "https://cdn.discordapp.com/attachments/934022616321253397/1319734246939562044/IMG_8536.jpg?ex=676709cb&is=6765b84b&hm=ce0eb0fc6b094ff2872cbf7a721b09519a8677ac83c628da07441bd5f0acb794&"
     }
   ]
 }
